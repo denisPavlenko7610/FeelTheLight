@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20ece13e57ab2a54e80667f7d20c2544
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 2f0d5adeac9e46b4b81529534de9cffc, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Runtime/Data/FSMC_Controller.cs
+  uploadId: 594110

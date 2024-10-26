@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26d35c7b6b2b698418108d93b55d0394
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Runtime/Data/FSMC_BoolParameter.cs
+  uploadId: 594110

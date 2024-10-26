@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d7f4d8633f97ce45bbc75a0d23f36af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Runtime/Mono/FSMC_Executer.cs
+  uploadId: 594110

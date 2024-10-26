@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.rdragon.tools": {
+      "version": "https://github.com/denisPavlenko7610/RDTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "102bf510812f6552ce96f9f7cb2d5650ba320045"
+    },
     "com.unity.adaptiveperformance": {
       "version": "5.1.0",
       "depth": 1,
@@ -56,7 +63,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.31",
+      "version": "3.0.34",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -74,7 +81,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.11.1",
+      "version": "1.11.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -116,6 +123,13 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
       "depth": 3,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c0cbfe383c4107418b19e8117684a70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Editor/Windows/FSMC_Utils.cs
+  uploadId: 594110

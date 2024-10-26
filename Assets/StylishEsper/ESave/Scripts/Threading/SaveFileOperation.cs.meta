@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d909e7452ec31a449a607b223f6b2f4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283140
+  packageName: ESave - Save System for Unity
+  packageVersion: 1.0.8
+  assetPath: Assets/StylishEsper/ESave/Scripts/Threading/SaveFileOperation.cs
+  uploadId: 695405

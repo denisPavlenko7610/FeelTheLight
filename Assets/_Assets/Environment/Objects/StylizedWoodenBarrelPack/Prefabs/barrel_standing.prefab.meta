@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb630fb359001064ca586127ec844200
+timeCreated: 1502573663
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97797
+  packageName: Stylized Wooden Barrel Pack
+  packageVersion: 1.0
+  assetPath: Assets/StylizedWoodenBarrelPack/Prefabs/barrel_standing.prefab
+  uploadId: 198591

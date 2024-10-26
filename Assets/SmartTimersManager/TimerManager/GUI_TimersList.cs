@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections.Generic;using Timers;public class GUI_TimersList : MonoBehaviour{    [SerializeField] public List<Timer.Descriptor> Timers = new List<Timer.Descriptor>();    protected virtual void Start()    {        TimersManager.AddTimers(this, Timers);    }}

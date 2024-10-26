@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e2b0d11a4a7d2a438241a623d122eec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Editor/Windows/FSMC_GraphView.cs
+  uploadId: 594110

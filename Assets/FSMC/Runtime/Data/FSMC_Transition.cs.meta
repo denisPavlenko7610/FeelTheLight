@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ff530b28e267934c9258d07adb06505
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Runtime/Data/FSMC_Transition.cs
+  uploadId: 594110

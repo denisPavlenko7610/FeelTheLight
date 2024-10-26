@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 022f73fb236c1654cba98ba03c01e9ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Editor/Nodes/FSMC_EdgeArrow.cs
+  uploadId: 594110

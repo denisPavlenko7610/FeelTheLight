@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2f0f9266ac151c4fb9197f09cfe4378
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249962
+  packageName: Node Based Dialog System
+  packageVersion: 1.3.3
+  assetPath: Assets/DialogNodeBasedSystem/Documentation/NBDS Guide.pdf
+  uploadId: 680553

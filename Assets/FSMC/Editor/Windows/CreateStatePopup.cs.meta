@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd3271b415047e94d82f9516c55ab97c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258384
+  packageName: Finite State Machine Creator
+  packageVersion: 1.0.0
+  assetPath: Assets/FSMC/Editor/Windows/CreateStatePopup.cs
+  uploadId: 594110

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa16f192e48b4f34888fa5f987fae652
+timeCreated: 1449269107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51228
+  packageName: RPG - Wood Crate
+  packageVersion: 1.0
+  assetPath: Assets/freeCrateUnity/Prefab/P_Crate_1.prefab
+  uploadId: 92594

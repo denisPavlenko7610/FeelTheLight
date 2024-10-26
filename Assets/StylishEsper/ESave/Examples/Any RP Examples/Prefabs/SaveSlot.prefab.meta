@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84dfd3a9a66aef84d9a9ddf32472d0ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283140
+  packageName: ESave - Save System for Unity
+  packageVersion: 1.0.8
+  assetPath: Assets/StylishEsper/ESave/Examples/Any RP Examples/Prefabs/SaveSlot.prefab
+  uploadId: 695405

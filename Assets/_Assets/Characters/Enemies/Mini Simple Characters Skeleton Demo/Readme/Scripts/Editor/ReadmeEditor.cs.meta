@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 476cc7d7cd9874016adc216baab94a0a
+timeCreated: 1484146680
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256389
+  packageName: Mini Modular Character | Free Demo
+  packageVersion: 1.0
+  assetPath: Assets/_Assets/Characters/Enemies/Mini Simple Characters Skeleton Demo/Readme/Scripts/Editor/ReadmeEditor.cs
+  uploadId: 600542
